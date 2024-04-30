@@ -22,3 +22,7 @@ Integration with HR Systems: ORMS may integrate with other HR systems such as Ap
 
  Online Recruitment Management System streamlines the recruitment process, improves efficiency, reduces time-to-hire, and enhances the overall candidate experience. It empowers recruiters to find and hire the best talent for their organization while minimizing administrative burden and manual tasks.
 
+
+
+Credentials:: Username: root
+              Password:
