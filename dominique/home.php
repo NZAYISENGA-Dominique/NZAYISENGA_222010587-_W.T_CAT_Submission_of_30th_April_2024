@@ -82,7 +82,7 @@
     </style>
 </head>
 <body>
-    <a href="about.html" class="about-us-button">About Us</a>
+    <a href="about.php" class="about-us-button">About Us</a>
     <div class="container">
         <h1>Welcome to Our Website</h1>
         <a href="user registration.php" class="button">Get Started</a>
