@@ -129,7 +129,7 @@
             Onboarding: Once a candidate is selected, the system may facilitate the onboarding process by managing paperwork, sending welcome emails, and providing access to training materials or company resources.
             Analytics and Reporting: The system generates reports and analytics on key recruitment metrics, such as time-to-fill, cost-per-hire, and applicant sources. This data helps organizations evaluate the effectiveness of their recruitment strategies and make data-driven decisions..</p>
         <!-- Back button -->
-        <a href="home .html" class="back-button" onclick="history.back()">Back</a>
+        <a href="home.php" class="back-button" onclick="history.back()">Back</a>
     </section>
    
     <div class="container">
