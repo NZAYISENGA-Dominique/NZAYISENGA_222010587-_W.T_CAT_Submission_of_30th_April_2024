@@ -137,9 +137,9 @@
         <!-- Buttons container -->
         <div class="buttons-container">
             <!-- Add admin dashboard buttons here -->
-            <a href="update.html" class="button">Manage Users</a>
-            <a href="manage jobs.html" class="button">Manage Jobs</a>
-            <a href="employement admin.html" class="button">Manage Applications</a>
+            <a href="update.php" class="button">Manage Users</a>
+            <a href="manage jobs.php" class="button">Manage Jobs</a>
+            <a href="employement admin.php" class="button">Manage Applications</a>
             <a href="interviews.php" class="button">Manage Interviews</a>
             <a href="offer management.php" class="button">Manage Offers</a>
             <a href="placement tracking.php" class="button">Manage Placements</a>
