@@ -112,13 +112,13 @@
         <!-- Add recruiter dashboard content here -->
         <p>Welcome, Recruiter!</p>
         <ul>
-            <li><a href="employement.html" class="button">View Applications</a></li>
-            <li><a href="scheduling.html" class="button">Schedule Interviews</a></li>
+            <li><a href="employement.php" class="button">View Applications</a></li>
+            <li><a href="scheduling.php" class="button">Schedule Interviews</a></li>
             <li><a href="placement tracking.php" class="button">Track Placements</a></li>
             <li><a href="recruiter profile.php" class="button">Manage Profile</a></li>
         </ul>
         <!-- Logout button -->
-        <a href="logout.html" class="logout-btn">Logout</a>
+        <a href="home.php" class="logout-btn">Logout</a>
     </div>
 
     <!-- Footer -->
